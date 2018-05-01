@@ -1,0 +1,6 @@
+f=open('test.txt','w')
+f.write('plow deep\nwhile sluggards sleep')
+f.close()
+f=open('test.txt')
+f.read()
+f.close()
