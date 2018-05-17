@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0fdab8-3efa-464b-ac0e-646b64b63dae" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-4(재귀함수).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-1(근의개수).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-12(원하는부분까지출력).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-13(무한급수).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-3,6-4(숫자뒤집기).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-5(크기순정렬).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-6(근의공식-클래스).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-7(연립방정식-클래스).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-8(스톱워치).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ascii변환.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decimalToBinary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decimalToHex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time.time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/리스트.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모듈.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준 14917.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준14914번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/빈도수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/상속.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/소득.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/역순나열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/연이율.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/은행계좌.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입출력.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/중복제거.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/평균.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/하노이탑.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/학생관리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/파싱.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="car.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="car.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/car.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="파싱.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/파싱.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -66,8 +44,8 @@
       <file leaf-file-name="은행계좌.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/은행계좌.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+            <state relative-caret-position="589">
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -77,15 +55,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="빈도수.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/빈도수.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -200,6 +169,7 @@
         <option value="$PROJECT_DIR$/연이율.py" />
         <option value="$PROJECT_DIR$/리스트.py" />
         <option value="$PROJECT_DIR$/car.py" />
+        <option value="$PROJECT_DIR$/파싱.py" />
       </list>
     </option>
   </component>
@@ -229,7 +199,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python36-master/2부/16장" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -258,6 +228,42 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/연이율.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="소득" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/소득.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="역순나열" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/역순나열.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -407,42 +413,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="소득" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/소득.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="역순나열" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/역순나열.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -502,12 +472,10 @@
       <item itemvalue="Python.연이율" />
       <item itemvalue="Python.class" />
       <item itemvalue="Python.car" />
-      <item itemvalue="Python.리스트" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.car" />
-        <item itemvalue="Python.리스트" />
         <item itemvalue="Python.class" />
         <item itemvalue="Python.연이율" />
         <item itemvalue="Python.decimalToHex" />
@@ -559,13 +527,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/중복제거.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -859,8 +820,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/은행계좌.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        <state relative-caret-position="589">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -888,7 +849,14 @@
     <entry file="file://$PROJECT_DIR$/car.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/파싱.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
