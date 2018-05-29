@@ -2,6 +2,7 @@ from tkinter import*
 from tkinter import font
 import tkinter.messagebox
 
+
 #파싱용
 import urllib.request
 import string
@@ -13,6 +14,9 @@ import base64
 from xml.dom.minidom import *
 from email.mime.base import MIMEBase
 from email.mime.text import MIMEText
+
+# 텔레그램
+import telepot
 
 g_Tk = Tk()
 g_Tk.geometry("1000x600+750+200")
@@ -35,6 +39,10 @@ def sendMail(ReviceMail, Subject, Content):
     msg['From'] = Base64_Decode("YW5reW9uZzk5QGdtYWlsLmNvbQ==")
     msg['To'] = ReviceMail
     s.sendmail( Base64_Decode("YW5reW9uZzk5QGdtYWlsLmNvbQ==") , ReviceMail, msg.as_string())
+
+
+bot=telepot.Bot('')
+
 
 # API공유키
 global key
